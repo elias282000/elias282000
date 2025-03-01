@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elias Ur Rahman
 - 👀 I’m interested in Coding in Python and C++.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Data Anaysis
 - 💞️ I’m looking to collaborate on Projects on Security.
 - 📫 Email me:lsrrhmn@gmail.com
 
